@@ -56,162 +56,241 @@ https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_si
 
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
 #EXTINF:-1 tvg-id="360TVSD.tr" tvg-name="360 TV SD" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",360 TV SD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
 #EXTINF:-1 tvg-id="AALive.tr" tvg-name="AA Live" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",AA Live
 http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="AFYONTURKTV.tr" tvg-name="AFYON TÜRK TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",AFYON TÜRK TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="AfyonTurkTV.tr" tvg-name="Afyon Türk TV" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/tXbD8Sz/8A1HOMZ.png" group-title="",Afyon Türk TV (720p)
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AkitTV.tr" tvg-name="Akit TV" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/zG7NM55/Jagn7PG.png" group-title="",Akit TV (720p)
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
+
 #EXTINF:-1 tvg-id="AkitTV.tr" tvg-name="Akit TV" tvg-country="TR" tvg-language="" tvg-logo="https://www.akittv.com.tr/assets/img/logo.png" group-title="",Akit TV
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+
 #EXTINF:-1 tvg-id="AKSUTV.tr" tvg-name="AKSU TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",AKSU TV
 https://waw2.artiyerelmedya.net/aksutv/bant1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="AlZahraTVTurkic.tr" tvg-name="Al-Zahra TV Turkic" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1LGHMzQ/lwkowCS.png" group-title="",Al-Zahra TV Turkic (1080p)
 https://live.al-zahratv.com/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AlZahraTVTurkic.tr" tvg-name="Al-Zahra TV Turkic" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1LGHMzQ/lwkowCS.png" group-title="",Al-Zahra TV Turkic
 https://live.al-zahratv.com/live/playlist2/index.m3u8
+
 #EXTINF:-1 tvg-id="AlanyaPostaTV.tr" tvg-name="Alanya Posta TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",Alanya Posta TV
 http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8
+
 #EXTINF:-1 tvg-id="ALTASTV.tr" tvg-name="ALTAS TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",ALTAS TV
 http://stream.taksimbilisim.com:1935/altastv/bant1/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="ALTASTV.tr" tvg-name="ALTAS TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",ALTAS TV
 https://broadcasttr.com:446/altastv/bant1/chunklist_w1478482566.m3u8
+
 #EXTINF:-1 tvg-id="AltasTV.tr" tvg-name="Altaş TV" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/37VNK2B/Nnsnayw.png" group-title="",Altaş TV (720p) [Not 24/7]
 http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ALTASTV.tr" tvg-name="ALTAŞ TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",ALTAŞ TV
 https://broadcasttr.com:446/altastv/bant1/index.m3u8
+
 #EXTINF:-1 tvg-id="ARASTV.tr" tvg-name="ARAS TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",ARAS TV
 http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ATVAlanya.tr" tvg-name="ATV Alanya" tvg-country="TR" tvg-language="" tvg-logo="https://i.imgur.com/Jo6DJUe.png" group-title="",ATV Alanya
 http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AVTV.tr" tvg-name="AV TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",AV TV
 http://195.142.1.213:1935/avtv/avtv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="AVTV.tr" tvg-name="AV TV" tvg-country="TR" tvg-language="" tvg-logo="https://i.imgur.com/j535lf4.png" group-title="",AV TV
 http://195.142.1.213:1935/avtv/avtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BENGUTURKTV.tr" tvg-name="BENGÜTÜRK TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",BENGÜTÜRK TV
 https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
+
 #EXTINF:-1 tvg-id="BeratTV.tr" tvg-name="Berat TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",Berat TV
 http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BeratTV.tr" tvg-name="Berat TV" tvg-country="TR" tvg-language="" tvg-logo="https://i.imgur.com/3YJO7N2.jpg" group-title="",Berat TV
 https://cdn-berattv.yayin.com.tr/berattv/berattv/chunklist_w401133734.m3u8
+
 #EXTINF:-1 tvg-id="BEYAZHDPlus.tr" tvg-name="BEYAZ HD+" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",BEYAZ HD+
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/87
+
 #EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="BEYAZ TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",BEYAZ TV
 https://av.livestreamlive.xyz/hls/beyaz.m3u8
+
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Msq17kK/beyaztv.png" group-title="",Beyaz TV
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+
 #EXTINF:-1 tvg-id="BEYAZTVHD.tr" tvg-name="BEYAZ TV HD" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",BEYAZ TV HD
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/chunklist_b2064000.m3u8
+
 #EXTINF:-1 tvg-id="BesiktasWebTV.tr" tvg-name="Beşiktaş Web TV" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bRhnM6W/qti5aea.png" group-title="",Beşiktaş Web TV
 https://s01.vpis.io/besiktas/besiktas.m3u8
+
 #EXTINF:-1 tvg-id="BodrumBelediyesiWebTV.tr" tvg-name="Bodrum Belediyesi Web TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",Bodrum Belediyesi Web TV
 https://win2.yayin.com.tr/bodrumbeltv/bodrumbeltv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="BRTV.tr" tvg-name="BRTV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",BRTV
 https://waw2.artiyerelmedya.net/brtv/bant1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="BursaASTV.tr" tvg-name="Bursa AS TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",Bursa AS TV
 https://waw2.artiyerelmedya.net/astv/bant1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="BursaTV.tr" tvg-name="Bursa TV" tvg-country="TR" tvg-language="" tvg-logo="https://www.bursatv.com.tr/images/banner/bursa-tv.png" group-title="",Bursa TV
 https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BursaTV.tr" tvg-name="Bursa TV" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/N2Yc8Yf/k6DUajb.png" group-title="",Bursa TV
 https://win1.yayin.com.tr/bursatv/bursatv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="BursaTV.tr" tvg-name="Bursa TV" tvg-country="TR" tvg-language="" tvg-logo="https://i.imgur.com/9gta3PU.png" group-title="",Bursa TV
 https://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BuyukAlanyaTV.tr" tvg-name="Büyük Alanya TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",Büyük Alanya TV
 https://canliyayin.buyukalanya.com/hls/byk/buyukalanya.m3u8
+
 #EXTINF:-1 tvg-id="CANTV.tr" tvg-name="CAN TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",CAN TV
 http://176.10.117.18:8000/play/a004/index.m3u8
+
 #EXTINF:-1 tvg-id="CanTV.tr" tvg-name="Can TV" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/qdBr2fH/kgwc6oT.jpg" group-title="",Can TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
+
 #EXTINF:-1 tvg-id="CANTVHD.tr" tvg-name="CAN TV HD" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",CAN TV HD
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/105.m3u8
+
 #EXTINF:-1 tvg-id="Canli24.tr" tvg-name="Canlı 24" tvg-country="TR" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/833294014476595200/tDTtFwpn_400x400.jpg" group-title="",Canlı 24
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CayTV.tr" tvg-name="Cay TV" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/80d40Qb/e2K5ixJ.png" group-title="",Cay TV (720p)
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+
 #EXTINF:-1 tvg-id="CekmekoyTV.tr" tvg-name="Cekmeköy TV" tvg-country="TR" tvg-language="" tvg-logo="https://i.imgur.com/sjAGFWu.png" group-title="",Cekmeköy TV
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CemTV.tr" tvg-name="Cem TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",Cem TV
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/104.m3u8
+
 #EXTINF:-1 tvg-id="CINE5TV.tr" tvg-name="CINE5 TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",CINE5 TV
 http://win1.yayin.com.tr/cine5/cine5/iptvdelisi.m3u8
+
 #EXTINF:-1 tvg-id="Cine5TV.tr" tvg-name="Cine5 TV" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="",Cine5 TV (720p)
 https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CRITurkBelgesel.tr" tvg-name="CRI Turk Belgesel" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xXjjbq6/yhzxKnt.png" group-title="",CRI Turk Belgesel (480p)
 http://cri.aa.net.tr:1935/belgesel/belgesel/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DEHATV.tr" tvg-name="DEHA TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",DEHA TV
 https://waw2.artiyerelmedya.net/dehatv/bant1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="DenizPostasiTV.tr" tvg-name="Deniz Postası TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",Deniz Postası TV
 http://waw1.artiyerelmedya.net:1935/denizpostasitv/bant1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="DENIZPOSTASITV.tr" tvg-name="DENİZ POSTASI TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",DENİZ POSTASI TV
 https://waw2.artiyerelmedya.net/denizpostasitv/bant1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Dersim62TV.tr" tvg-name="Dersim62 TV" tvg-country="TR" tvg-language="" tvg-logo="http://dersim62.tv/wp-content/uploads/2016/05/3v3.jpg" group-title="",Dersim62 TV (720p)
 http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DIMTV.tr" tvg-name="DİM TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",DİM TV
 https://waw2.artiyerelmedya.net/dimtv/bant1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="DIYANETTVHD.tr" tvg-name="DİYANET TV HD" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",DİYANET TV HD
 https://mn-nl.mncdn.com/blutv_diyanet/smil:diyanet_sd.smil/chunklist_b2064000.m3u8
+
 #EXTINF:-1 tvg-id="DRTDENIZLI.tr" tvg-name="DRT DENİZLİ" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",DRT DENİZLİ
 https://broadcasttr.com:446/drt/bant1/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="DRTTV.tr" tvg-name="DRT TV" tvg-country="TR" tvg-language="" tvg-logo="https://i.imgur.com/uOMuhrI.jpg" group-title="",DRT TV
 https://broadcasttr.com:446/drt/bant1/chunklist_w172830844.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
+
 #EXTINF:-1 tvg-id="EgeATurkTV.tr" tvg-name="Ege A Turk TV" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/DdJWGOk.jpg" group-title="",Ege A Turk TV (360p)
 https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="EGETVHD.tr" tvg-name="EGE TV HD" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",EGE TV HD
 https://waw2.artiyerelmedya.net/egetv/bant1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="ElmasTV.tr" tvg-name="Elmas TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",Elmas TV [Not 24/7]
 https://5be5d840359c6.streamlock.net/elmas67tv/elmas67tv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="EmTV.tr" tvg-name="Em TV" tvg-country="TR" tvg-language="" tvg-logo="https://i.imgur.com/pHlRi8m.jpg" group-title="",Em TV (486p)
 https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ERTV.tr" tvg-name="ER TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",ER TV
 https://waw2.artiyerelmedya.net/ertv/bant1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="ErtSahTV.tr" tvg-name="Ert Sah TV" tvg-country="TR" tvg-language="" tvg-logo="https://i.imgur.com/J2OSHdh.png" group-title="",Ert Sah TV (720p)
 http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ERTSahTVErzincan.tr" tvg-name="ERT Şah TV Erzincan" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",ERT Şah TV Erzincan (720p)
 http://win20.yayin.com.tr/ertsahtv/ertsahtv/iptvdelisi.m3u8
+
 #EXTINF:-1 tvg-id="ErzurumWebTV.tr" tvg-name="Erzurum Web TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",Erzurum Web TV (720p)
 https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
+
 #EXTINF:-1 tvg-id="ETVManisa.tr" tvg-name="ETV Manisa" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png" group-title="",ETV Manisa
 https://broadcasttr.com:446/manisaetv/bant1/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="ETVManisa.tr" tvg-name="ETV Manisa" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",ETV Manisa
 https://broadcasttr.com:446/manisaetv/bant1/chunklist_w149497199.m3u8
+
 #EXTINF:-1 tvg-id="ETVMANISATV.tr" tvg-name="ETV MANİSA TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",ETV MANİSA TV (1080p)
 https://broadcasttr.com:446/manisaetv/bant1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Euro90Channel.tr" tvg-name="Euro 90 Channel" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",Euro 90 Channel
 https://ssl4.radyotvonline.com/e90tv/e90tvlive/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="EuroGenc.tr" tvg-name="Euro Genc" tvg-country="TR" tvg-language="" tvg-logo="https://i.imgur.com/63pj9bF.jpg" group-title="",Euro Genc (1080p)
 https://dcunilive258-lh.akamaihd.net/i/dclive_1@126972/master.m3u8
+
 #EXTINF:-1 tvg-id="FinansTurkTV.tr" tvg-name="Finans Turk TV" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" group-title="",Finans Turk TV (360p)
 http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GaziantepOlayTv.tr" tvg-name="Gaziantep Olay Tv" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",Gaziantep Olay Tv
 https://waw2.artiyerelmedya.net/olaytv/bant1/chunks.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
+
 #EXTINF:-1 tvg-id="GAZIANTEPOLAYTV.tr" tvg-name="GAZİANTEP OLAY TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",GAZİANTEP OLAY TV
 https://waw2.artiyerelmedya.net/olaytv/bant1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="GencTV.tr" tvg-name="Genç TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",Genç TV
 http://kuzeykibris.tv/m3u8/tv_genc.m3u8
+
 #EXTINF:-1 tvg-id="GoncaTV.tr" tvg-name="Gonca TV" tvg-country="TR" tvg-language="" tvg-logo="https://i.imgur.com/0N5jh8z.jpg" group-title="",Gonca TV
 https://broadcasttr.com:446/tuncerciftci/smil:tuncerciftci.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GRT.tr" tvg-name="GRT" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",GRT
 https://waw2.artiyerelmedya.net/grt/bant1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="GRTGaziantep.tr" tvg-name="GRT Gaziantep" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",GRT Gaziantep (720p)
 http://yerelmedya.tv:1935/grt/_definst_/bant1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GSTV.tr" tvg-name="GS TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
+
 #EXTINF:-1 tvg-id="GSTV.tr" tvg-name="GSTV" tvg-country="TR" tvg-language="" tvg-logo="https://i.imgur.com/fC3KuwT.jpg" group-title="",GSTV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b496000_sltur.m3u8
+
 #EXTINF:-1 tvg-id="GuneyTVTarsus.tr" tvg-name="Guney TV Tarsus" tvg-country="TR" tvg-language="" tvg-logo="http://www.guneytv.com.tr/img/logo.png" group-title="",Guney TV Tarsus
 http://stream2.taksimbilisim.com:1935/tarsusguneytv/bant1/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="GuneydoguTV.tr" tvg-name="Guneydoğu TV" tvg-country="TR" tvg-language="" tvg-logo="https://i.imgur.com/JT5pp3Y.png" group-title="",Guneydoğu TV [Not 24/7]
 http://stream2.taksimbilisim.com:1935/gtv/bant1/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="GUNEYDOGUTV.tr" tvg-name="GÜNEYDOĞU TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",GÜNEYDOĞU TV (480p) [Not 24/7]
 https://broadcasttr.com:446/gtv/bant1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GunesTVKibris.tr" tvg-name="Güneş TV Kibris" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",Güneş TV Kibris
 http://kuzeykibris.tv/m3u8/tv_gunes.m3u8
+
 #EXTINF:-1 tvg-id="Haber61.tr" tvg-name="Haber 61" tvg-country="TR" tvg-language="" tvg-logo="https://i.imgur.com/RhPIYKu.jpg" group-title="",Haber 61
 https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HABER61TV.tr" tvg-name="HABER 61 TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",HABER 61 TV
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Haber61TV.tr" tvg-name="Haber 61 TV" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",Haber 61 TV
