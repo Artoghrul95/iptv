@@ -39,6 +39,12 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/66.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png" group-title="",Show TV
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="A TV" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="",A TV
+https://www.youtube.com/watch?v=K7TWa2SSK-w
+
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FKfPTrd/star-tv.png" group-title="",Star TV (480p)
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/69
+
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-country="TR" tvg-language="Turkish" tvg-logo="" group-title="",Kanal 7
 https://live.kanal7.com/live/kanal7LiveMobile/index.m3u8
 
