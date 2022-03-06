@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,AZ TV
+https://ecanlitv1.etvserver.com/live_sd/aztv/chunks.m3u8?nimblesessionid=239030598&wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjIgNjoxMjoyMSBQTSZoYXNoX3ZhbHVlPW9EMkhRdlFyOGxSd2Q5cEhkaDNYV2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 ,ARB
 http://85.132.81.184:8080/arb/live/index.m3u8
 #EXTINF:-1 ,ARB 24
