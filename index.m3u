@@ -13,6 +13,10 @@ http://85.132.81.184:8080/atv-2/index.m3u8
 http://85.132.81.184:8080/atv-4/index.m3u8
 #EXTINF:-1 ,Xezer TV
 http://149.255.155.142/Xazar/index.m3u8
+#EXTINF:-1 ,Naxcivan TV SD
+http://canli.naxcivantv.az/media/20220306/low/tv_low.m3u8
+#EXTINF:-1 ,Naxcivan TV HD
+http://canli.naxcivantv.az/media/20220306/high/tv_high.m3u8
 #EXTINF:-1 ,Ictimai TV
 http://149.255.155.142/Ictimai/index.m3u8
 #EXTINF:-1 ,InterAz TV
