@@ -28,19 +28,19 @@ http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8
 #EXTINF:-1 ,idman
 http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd
 
-#EXTINF:0 type="stream" channelId="4003" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-b1BHMpUZAQg/YI3eM-4AbOI/AAAAAAAATQk/-sFIDuHn6JIy2SC-_pD8HytiquHERf9YACLcBGAsYHQ/s0/ATV%2B-%2BKopya.png", ATV  HD TR
+#EXTINF:-1 ,ATV  HD TR
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
-#EXTINF:0 type="stream" channelId="4003" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-b1BHMpUZAQg/YI3eM-4AbOI/AAAAAAAATQk/-sFIDuHn6JIy2SC-_pD8HytiquHERf9YACLcBGAsYHQ/s0/ATV%2B-%2BKopya.png", ATV  FHD
+#EXTINF:-1 ,ATV  FHD
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
-#EXTINF:0 type="stream" channelId="3996" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-b1BHMpUZAQg/YI3eM-4AbOI/AAAAAAAATQk/-sFIDuHn6JIy2SC-_pD8HytiquHERf9YACLcBGAsYHQ/s0/ATV%2B-%2BKopya.png", ATV SD
+#EXTINF:-1 ,ATV SD
 http://istanbul.tvizlehd.com/live/atv.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png" group-title="",Show TV
+#EXTINF:-1 ,Show TV
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:-1 ,KANAL 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
-#EXTINF:-1 tvg-id="Canli24.tr" tvg-name="Canlı 24" tvg-country="TR" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/833294014476595200/tDTtFwpn_400x400.jpg" group-title="",Canlı 24
+#EXTINF:-1 ,Canlı 24
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="HABERTÜRK" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",HABERTÜRK
+#EXTINF:-1 ,HABERTÜRK
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
-#EXTINF:-1 tvg-id="TGRTHABER.tr" tvg-name="TGRT HABER" tvg-country="TR" tvg-language="" tvg-logo="" group-title="",TGRT HABER
+#EXTINF:-1 ,TGRT HABER
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
