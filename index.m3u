@@ -11,6 +11,8 @@ http://85.132.81.184:8080/atv-2/index.m3u8
 http://85.132.81.184:8080/atv-4/index.m3u8
 #EXTINF:-1 ,Xezer TV
 http://149.255.155.142/Xazar/index.m3u8
+#EXTINF:-1 ,Naxcivan TV
+http://canli.naxcivantv.az/media/ntvlive123.m3u8
 #EXTINF:-1 ,Ictimai TV
 http://149.255.155.142/Ictimai/index.m3u8
 #EXTINF:-1 ,InterAz TV
@@ -30,9 +32,20 @@ https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 http://istanbul.tvizlehd.com/live/atv.m3u8
 #EXTINF:-1 ,Show TV
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:-1 ,Star TV FHD
+https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
 #EXTINF:-1 ,KANAL 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+
+
+#EXTINF:-1 ,Haber Turk
+https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+#EXTINF:-1 ,Haber Global
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:-1 ,NTV
+https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
 #EXTINF:-1 ,Canlı 24
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
-#EXTINF:-1 ,HABERTÜRK
-https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+
+#EXTINF:-1 ,TRT Cocuk
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
